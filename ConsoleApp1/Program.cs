@@ -44,8 +44,6 @@ namespace ConsoleApp1
                     }
                 }
 
-
-
                 return topStudent;
             }
 
